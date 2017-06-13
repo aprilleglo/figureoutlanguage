@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blois : Savoir Écouter</string>
+    <string name="dummy_button">nul button</string>
+    <string name="dummy_content">contenu nul</string>
+    <string name="aboutDescription">à propos du projet Blois : Savoir Écouter</string>
+    <string name="thanksDescription">les remerciements</string>
+    <string name="case1_Description">Case 1</string>
+    <string name="case2_Description">Case 2</string>
+    <string name="users_Description">les Blésois</string>
+    <string name="case3_Description">Case 3</string>
+    <string name="case4_Description">Case 4</string>
+    <string name="case5_Description">Case 5</string>
+    <string name="case6_Description">Case 6</string>
+    <string name="case7_Description">Case 7</string>
+    <string name="case8_Description">Case 8</string>
+    <string name="case9_Description">Case 9</string>
+    <string name="case10_Description">Case 10</string>
+    <string name="case11_Description">Case 11</string>
+    <string name="case12_Description">Case 12</string>
+    <string name="case13_Description">Case 13</string>
+    <string name="case14_Description">Case 14</string>
+    <string name="case15_Description">Case 15</string>
+    <string name="legend_Description">La legende</string>
+    <string name="application_Description">L\'application</string>
+</resources>

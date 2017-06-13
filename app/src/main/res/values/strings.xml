@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Blois : Know how to listen...</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="aboutDescription">About Project</string>
+    <string name="thanksDescription">thanks to our partners</string>
+    <string name="case1_Description">Sector 1</string>
+    <string name="case2_Description">Sector 2</string>
+    <string name="users_Description">people of Blois</string>
+    <string name="case3_Description">Sector 3</string>
+    <string name="case4_Description">Sector 4</string>
+    <string name="case5_Description">Sector 5</string>
+    <string name="case6_Description">Sector 6</string>
+    <string name="case7_Description">Sector 7</string>
+    <string name="case8_Description">Sector 8</string>
+    <string name="case9_Description">Sector 9</string>
+    <string name="case10_Description">Sector 10</string>
+    <string name="case11_Description">Sector 11</string>
+    <string name="case12_Description">Sector 12</string>
+    <string name="case13_Description">Sector 13</string>
+    <string name="case14_Description">Sector 14</string>
+    <string name="case15_Description">Sector 15</string>
+    <string name="legend_Description">The legend of map</string>
+    <string name="application_Description">The application itself</string>
+</resources>
